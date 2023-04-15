@@ -4,7 +4,7 @@
 ### The goal of making this project is to make process of image search/recognition easy by first converting it to a sentence. 
 
 ## It was made by the following steps:
-### 1)
+### 1) Collecting data
 ### 2)
 
 
